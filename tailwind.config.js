@@ -6,6 +6,13 @@ module.exports = {
       colors: {
         primary: '#4083E1',
       },
+      backgroundImage: {
+        'hero-pattern': "url('./assets/Hero.jpg')",
+      }, 
+      borderRadius: {
+        '4xl': '1rem',
+        '8xl': '16rem'
+      },
     },
   },
   plugins: [],
